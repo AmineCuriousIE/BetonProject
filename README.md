@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -96,5 +95,4 @@
     <p>&copy; 2024 Techniques de Construction en Béton Armé et ses Avantages</p>
 </footer>
 
-</body>
-</html>
+
